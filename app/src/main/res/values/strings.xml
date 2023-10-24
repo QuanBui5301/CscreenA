@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">cscreena</string>
+
+    <string-array name="language">
+        <item>ENGLISH</item>
+        <item>CHINESE</item>
+        <item>KOREAN</item>
+        <item>JAPANESE</item>
+    </string-array>
+    <string-array name="translate">
+        <item>ENGLISH</item>
+        <item>CHINESE</item>
+        <item>KOREAN</item>
+        <item>JAPANESE</item>
+        <item>VIETNAMESE</item>
+    </string-array>
+</resources>
